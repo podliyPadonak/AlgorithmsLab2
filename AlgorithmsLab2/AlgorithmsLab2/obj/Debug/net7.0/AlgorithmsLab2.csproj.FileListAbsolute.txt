@@ -1,0 +1,15 @@
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/bin/Debug/net7.0/AlgorithmsLab2
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/bin/Debug/net7.0/AlgorithmsLab2.deps.json
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/bin/Debug/net7.0/AlgorithmsLab2.runtimeconfig.json
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/bin/Debug/net7.0/AlgorithmsLab2.dll
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/bin/Debug/net7.0/AlgorithmsLab2.pdb
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/AlgorithmsLab2.csproj.AssemblyReference.cache
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/AlgorithmsLab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/AlgorithmsLab2.AssemblyInfoInputs.cache
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/AlgorithmsLab2.AssemblyInfo.cs
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/AlgorithmsLab2.csproj.CoreCompileInputs.cache
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/AlgorithmsLab2.dll
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/refint/AlgorithmsLab2.dll
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/AlgorithmsLab2.pdb
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/AlgorithmsLab2.genruntimeconfig.cache
+/Users/ivan.zinkovskyi/Documents/HEBRON ACADEMY/ALGORITHMS/AlgorithmsLab2/AlgorithmsLab2/AlgorithmsLab2/obj/Debug/net7.0/ref/AlgorithmsLab2.dll
